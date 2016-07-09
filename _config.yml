@@ -1,0 +1,14 @@
+layout_spectrum: 0.6809214134700596
+typography_spectrum: 0.8560417876578867
+color:
+  brandStrength: 0.4681754447519779
+  lightness: 0.3436071367468685
+  saturation: 0.19014054257422686
+  rhythmicContrast: 0.31460452754981816
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: Grid Testing
